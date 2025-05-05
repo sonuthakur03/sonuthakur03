@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying **Ba
 ---
 
 ### 📫 Get in Touch
-- 📧 Email: [rsonuth789@gmail.com] *(optional)*
+- 📧 Email: [rsonuth789@gmail.com]
 
 Thanks for visiting! ⭐️ Feel free to follow or contribute to my repos.
 
