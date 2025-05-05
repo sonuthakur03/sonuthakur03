@@ -1,16 +1,40 @@
-## Hi there 👋 I am bachelor student studying under TU in SIC college.
+# 👋 Hello! I'm Sonu Thakur
 
-<!--
-**sonuthakur03/sonuthakur03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Developer | 🌐 Web Enthusiast | 🎨 UI/UX Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer currently studying **Bachelor of Computer Application (BCA)** under **Tribhuvan University**. I enjoy building web apps, exploring UI/UX design, and learning full-stack development step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- 🌐 **Frontend**: HTML, CSS, JavaScript, Figma
+- ⚙️ **Backend**: Django (beginner), PHP (basic)
+- 🐍 **Languages**: Python, C, C++
+- 💻 **Tools**: VS Code, PyCharm, Git, GitHub, Kali Linux (WSL)
+
+---
+
+### 🚀 Projects & Work
+- 🔹 **JavaScript Projects Repo**: Merging all JS-based mini-projects in one place
+- 🔹 **Travel Booking Web App (UI only)**: Hotel, guide, and transportation booking (Figma-based design project)
+- 🔹 **Icecream Ordering App**: Built with Django 
+
+> Check out my repositories to see what I’m currently building or learning!
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonuthakur03&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonuthakur03&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+### 📫 Get in Touch
+- 📧 Email: [rsonuth789@gmail.com] *(optional)*
+
+Thanks for visiting! ⭐️ Feel free to follow or contribute to my repos.
+
+---
